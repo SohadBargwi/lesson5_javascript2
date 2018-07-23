@@ -4,20 +4,28 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 23, 2018
 
 ### Student Name:  
-(First and Last Name)
+Sohad Bargwi
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Lesson 5 covers three main topics in making decisions with conditional statements, creating reusable code with functions and storing Values in an Array
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+GitHub Page URL  https://sohadbargwi.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. **Controlling Flow and Bulding Arrays** :arrow_right: It is a set of data represented by a single variable name
+2. **Repeating Code** :arrow_right: Loop statement
+– Control flow statement repeatedly executing a
+statement or a series of statements. While a specific condition is true or until a specific
+condition becomes true.
+3. **Decision Making** :arrow_right: Determining the order in which statements execute in a program.
 
+
+<br>
+<br>
+<br>
+
+![Image of JS Techniques](http://gifimage.net/wp-content/uploads/2017/10/css-gif-7.gif)
